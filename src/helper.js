@@ -28,7 +28,7 @@ export const web3Modal = new Web3Modal(
 )
 
 /// Peanut SDK
-import PeanutProtocol from '@squirrel-labs/peanut-sdk';
+import PeanutProtocol from '@squirrel-labs/peanut-sdk-ethersv5';
 
 
 
